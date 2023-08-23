@@ -56,3 +56,22 @@ p {
     color: black;
     /* font-weight: bold */
 }
+
+.character-data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contenedor {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.imagen-descripcion {
+    display: flex;
+    gap: 20px;
+}
+
+.button {}

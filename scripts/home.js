@@ -46,7 +46,6 @@ const characterList = async(page = 1) => {
             <p class="${character.status.toLowerCase()}"></p>
             </div>
             
-            <a href="/#/${character.id}" > Ver detalle
             </a>
             `
 
